@@ -1,0 +1,12 @@
+#calculator program
+
+Console.WriteLine("enter first number :");
+int firstNumber = int.Parse(Console.ReadLine());
+
+
+
+Console.WriteLine("enter second number :");
+int secondNumber = int.Parse(Console.ReadLine());
+
+
+Console.WriteLine("The sum is : " + (firstNumber + secondNumber));
